@@ -2,7 +2,12 @@
 
 ##### Materia³y z prezentacji dla studentów studiów podyplomowych "Tworzenie Oprogramowanie w Technologii .NET"  WSIZ Copernicus we Wroc³awiu z dnia 13.04.2019 r.
 
-## Zawartoœæ folderów
+## Spis treœci
+* [Zawartoœæ repozytorium](#Zawartoœæ-repozytorium)
+* [Wymagane oprogramowanie](#Wymagane-oprogramowanie)
+
+
+## Zawartoœæ repozytorium
 Folder  | Opis
 ------------- | -------------
 (g³ówny)| Prezentacja (format Power Point oraz PDF).
