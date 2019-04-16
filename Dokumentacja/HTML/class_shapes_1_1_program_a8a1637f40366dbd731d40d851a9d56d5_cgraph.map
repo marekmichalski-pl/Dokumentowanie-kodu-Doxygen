@@ -1,0 +1,10 @@
+<map id="Shapes.Program.DefineRectangle" name="Shapes.Program.DefineRectangle">
+<area shape="rect" id="node2" href="$class_shapes_1_1_program.html#ad2616355773ad5960818471fd199eddc" title="Get number from console. " alt="" coords="271,5,449,32"/>
+<area shape="rect" id="node3" href="$class_shapes_1_1_rectangle.html#aad9c40eb69f41f219e7f4edc67d54792" title="Info about rectangle. " alt="" coords="284,56,436,83"/>
+<area shape="rect" id="node6" href="$class_shapes_1_1_program.html#a80935e72ada1408dd10d9e268c920b2a" title="Print info about error (red color) and write info in logger file. " alt="" coords="271,107,449,133"/>
+<area shape="rect" id="node4" href="$class_shapes_1_1_rectangle.html#ad12c57a5737508e680bae0a124be808b" title="Calculation of rectangle area. " alt="" coords="512,5,692,32"/>
+<area shape="rect" id="node5" href="$class_shapes_1_1_rectangle.html#a61456928420e1d61a4bbb6c89a5fb9d7" title="Calculation of rectangle perimeter. " alt="" coords="497,56,707,83"/>
+<area shape="rect" id="node7" href="$class_shapes_1_1_logger.html#acb7738fb2c18b2c3b0e312bcb005b29b" title="Bulid error message to write to file. " alt="" coords="531,107,673,133"/>
+<area shape="rect" id="node8" href="$class_shapes_1_1_logger.html#a2dda77f7f9cf3efb3500d30d5e5d82d2" title="Get actual date nd time and build time stamp for logger " alt="" coords="755,81,955,108"/>
+<area shape="rect" id="node9" href="$class_shapes_1_1_logger.html#aa96be1c3aa242aaa46000eabab3b8901" title="Append logger text to file. " alt="" coords="765,132,944,159"/>
+</map>

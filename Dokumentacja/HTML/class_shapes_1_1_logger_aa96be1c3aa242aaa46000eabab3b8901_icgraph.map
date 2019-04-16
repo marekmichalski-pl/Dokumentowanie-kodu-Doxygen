@@ -1,0 +1,8 @@
+<map id="Shapes.Logger.WriteToFile" name="Shapes.Logger.WriteToFile">
+<area shape="rect" id="node2" href="$class_shapes_1_1_logger.html#acb7738fb2c18b2c3b0e312bcb005b29b" title="Bulid error message to write to file. " alt="" coords="232,56,373,83"/>
+<area shape="rect" id="node3" href="$class_shapes_1_1_program.html#a80935e72ada1408dd10d9e268c920b2a" title="Print info about error (red color) and write info in logger file. " alt="" coords="421,56,600,83"/>
+<area shape="rect" id="node4" href="$class_shapes_1_1_program.html#a1efd94a5fcc1c59889d86eb3b6338126" title="Calculations for circle. " alt="" coords="661,5,853,32"/>
+<area shape="rect" id="node6" href="$class_shapes_1_1_program.html#a8a1637f40366dbd731d40d851a9d56d5" title="Calculations for triangle. " alt="" coords="648,56,865,83"/>
+<area shape="rect" id="node7" href="$class_shapes_1_1_program.html#ad8b6d8412545a58506aaaad285d34ff6" title="Calculations for triangle. " alt="" coords="655,107,859,133"/>
+<area shape="rect" id="node5" href="$class_shapes_1_1_program.html#a594c0a6ca9384efead89054fe342664c" title="Main function. " alt="" coords="913,56,1064,83"/>
+</map>

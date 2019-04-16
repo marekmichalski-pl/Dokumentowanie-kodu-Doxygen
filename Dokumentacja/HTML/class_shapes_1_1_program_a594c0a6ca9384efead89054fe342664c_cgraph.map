@@ -1,0 +1,24 @@
+<map id="Shapes.Program.Main" name="Shapes.Program.Main">
+<area shape="rect" id="node2" href="$class_shapes_1_1_program.html#a9ade4881c2d5a9dbfb5f61769fd2dd81" title="Clear screen and show main menu. " alt="" coords="223,5,405,32"/>
+<area shape="rect" id="node3" href="$class_shapes_1_1_program.html#ad96be31cce08b81c90779e7754eb6b32" title="Terminate application. " alt="" coords="204,56,424,83"/>
+<area shape="rect" id="node4" href="$class_shapes_1_1_program.html#a1efd94a5fcc1c59889d86eb3b6338126" title="Calculations for circle. " alt="" coords="218,208,410,235"/>
+<area shape="rect" id="node14" href="$class_shapes_1_1_program.html#ad8b6d8412545a58506aaaad285d34ff6" title="Calculations for triangle. " alt="" coords="212,157,416,184"/>
+<area shape="rect" id="node19" href="$class_shapes_1_1_program.html#a8a1637f40366dbd731d40d851a9d56d5" title="Calculations for triangle. " alt="" coords="205,107,423,133"/>
+<area shape="rect" id="node23" href="$class_shapes_1_1_program.html#aafa1ef87a276e3cde4ec2b83893e1bdf" title="Dodawanie dwoch liczb " alt="" coords="241,259,387,285"/>
+<area shape="rect" id="node5" href="$class_shapes_1_1_program.html#ad2616355773ad5960818471fd199eddc" title="Get number from console. " alt="" coords="477,208,654,235"/>
+<area shape="rect" id="node6" href="$class_shapes_1_1_program.html#aa1b54cd7d170608b6635f0fd2002e4a4" title="Print result (yellow color). " alt="" coords="472,259,659,285"/>
+<area shape="rect" id="node7" href="$class_shapes_1_1_circle.html#a4a839e20a887e598dca5b27492016771" title="Info about cirlce. " alt="" coords="502,309,629,336"/>
+<area shape="rect" id="node10" href="$class_shapes_1_1_program.html#a80935e72ada1408dd10d9e268c920b2a" title="Print info about error (red color) and write info in logger file. " alt="" coords="476,107,655,133"/>
+<area shape="rect" id="node8" href="$class_shapes_1_1_circle.html#ad486d5e78641c5362021fcf95613b8b5" title="Calculation of circle area. " alt="" coords="734,335,889,361"/>
+<area shape="rect" id="node9" href="$class_shapes_1_1_circle.html#a80bd1cf7b87ee2a68018d49b97bafabc" title="Calculation of circle perimeter. " alt="" coords="719,284,903,311"/>
+<area shape="rect" id="node11" href="$class_shapes_1_1_logger.html#acb7738fb2c18b2c3b0e312bcb005b29b" title="Bulid error message to write to file. " alt="" coords="741,107,882,133"/>
+<area shape="rect" id="node12" href="$class_shapes_1_1_logger.html#a2dda77f7f9cf3efb3500d30d5e5d82d2" title="Get actual date nd time and build time stamp for logger " alt="" coords="964,132,1164,159"/>
+<area shape="rect" id="node13" href="$class_shapes_1_1_logger.html#aa96be1c3aa242aaa46000eabab3b8901" title="Append logger text to file. " alt="" coords="975,81,1153,108"/>
+<area shape="rect" id="node15" href="$class_shapes_1_1_triangle.html#a18b9dc53dd62fedb7082f6316d6b8da4" title="Info about triangle. " alt="" coords="496,157,635,184"/>
+<area shape="rect" id="node16" href="$class_shapes_1_1_triangle.html#ade3230a8638a1f82476375cbe7c8cdd4" title="Calculation of triangle area. " alt="" coords="728,208,895,235"/>
+<area shape="rect" id="node18" href="$class_shapes_1_1_triangle.html#a08c95ff021c8bff6f6299b2bf5228be7" title="Calculation of triangle perimeter. " alt="" coords="713,157,909,184"/>
+<area shape="rect" id="node17" href="$class_shapes_1_1_triangle.html#a09cd259936953b9d993837a0bb1bd5b4" title="Calculation S value (Heron formula). " alt="" coords="973,208,1155,235"/>
+<area shape="rect" id="node20" href="$class_shapes_1_1_rectangle.html#aad9c40eb69f41f219e7f4edc67d54792" title="Info about rectangle. " alt="" coords="489,56,641,83"/>
+<area shape="rect" id="node21" href="$class_shapes_1_1_rectangle.html#ad12c57a5737508e680bae0a124be808b" title="Calculation of rectangle area. " alt="" coords="721,56,901,83"/>
+<area shape="rect" id="node22" href="$class_shapes_1_1_rectangle.html#a61456928420e1d61a4bbb6c89a5fb9d7" title="Calculation of rectangle perimeter. " alt="" coords="707,5,916,32"/>
+</map>

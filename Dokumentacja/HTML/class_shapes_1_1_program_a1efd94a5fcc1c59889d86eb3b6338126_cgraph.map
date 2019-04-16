@@ -1,0 +1,11 @@
+<map id="Shapes.Program.DefineCircle" name="Shapes.Program.DefineCircle">
+<area shape="rect" id="node2" href="$class_shapes_1_1_program.html#ad2616355773ad5960818471fd199eddc" title="Get number from console. " alt="" coords="250,5,427,32"/>
+<area shape="rect" id="node3" href="$class_shapes_1_1_program.html#aa1b54cd7d170608b6635f0fd2002e4a4" title="Print result (yellow color). " alt="" coords="245,56,432,83"/>
+<area shape="rect" id="node4" href="$class_shapes_1_1_circle.html#a4a839e20a887e598dca5b27492016771" title="Info about cirlce. " alt="" coords="275,107,402,133"/>
+<area shape="rect" id="node7" href="$class_shapes_1_1_program.html#a80935e72ada1408dd10d9e268c920b2a" title="Print info about error (red color) and write info in logger file. " alt="" coords="249,157,428,184"/>
+<area shape="rect" id="node5" href="$class_shapes_1_1_circle.html#ad486d5e78641c5362021fcf95613b8b5" title="Calculation of circle area. " alt="" coords="495,56,649,83"/>
+<area shape="rect" id="node6" href="$class_shapes_1_1_circle.html#a80bd1cf7b87ee2a68018d49b97bafabc" title="Calculation of circle perimeter. " alt="" coords="480,107,664,133"/>
+<area shape="rect" id="node8" href="$class_shapes_1_1_logger.html#acb7738fb2c18b2c3b0e312bcb005b29b" title="Bulid error message to write to file. " alt="" coords="501,157,643,184"/>
+<area shape="rect" id="node9" href="$class_shapes_1_1_logger.html#a2dda77f7f9cf3efb3500d30d5e5d82d2" title="Get actual date nd time and build time stamp for logger " alt="" coords="712,132,912,159"/>
+<area shape="rect" id="node10" href="$class_shapes_1_1_logger.html#aa96be1c3aa242aaa46000eabab3b8901" title="Append logger text to file. " alt="" coords="723,183,901,209"/>
+</map>
